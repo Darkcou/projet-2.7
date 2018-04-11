@@ -268,12 +268,6 @@ canaux, GbLAN, mATX, Sortie HDMI intégrée </option><option value="69::M2N Socket
 
       </td>
     </tr>
-    <tr>
-    	<td bordercolor="#0000FF" class="cadres" bgcolor="#00B509">
-          <div class="footer">
-           45 rue du 11 Novembre, 59000 LILLE<br>
-Tel : 03.20.20.20.20 - Fax : 03.20.20.20.21 
-        </div></td>
-    </tr>
-</tbody></table>
-</center></div></body></html>
+<?php
+require_once('footer.php')
+?>
