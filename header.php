@@ -11,7 +11,10 @@
   <td bordercolor="#0000FF" bgcolor="#00B509" class="cadres">
   <div class="utilisateur" style="float: left; padding-left:0.5em;">Bienvenue chez OSSER
   </div>
-  <div class="utilisateur" style="float: right; padding-right:0.5em;" ><a href="contact.php">N'hésitez pas, contactez nous !!</a></div>  </td>
+  <div class="utilisateur" style="float: right; padding-right:0.5em;" ><a href="contact.php">N'hésitez pas, contactez nous !!</a></div> 
+  <div class="utilisateur" style="float: left; padding-left:0.5em;">Vous n'êtes pas identifié.</div>
+  <div class="utilisateur" style="float: right; padding-right:0.5em;"><a href="http://90plan.ovh.net/~cyberplai/?main=identif" class="lienMenu">S'identifier</a> / <a href="http://90plan.ovh.net/~cyberplai/?main=enregistrer" class="lienMenu">Créer un compte</a></div>
+  </td>
   </tr>
   <tr>
   <td width="100%" height="145" nowrap="" background="img/bandeau.jpg" valign="bottom" class="cadres">
