@@ -1,0 +1,54 @@
+a:link { font-weight : bold; color : #009a08; text-decoration : none; }
+a:visited { font-weight : bold; color : #009a08; text-decoration : none; }
+a:hover { font-weight : bold; color : #002fb5; text-decoration : none;}
+a:active { font-weight : bold; color : #009a08; text-decoration : none; }
+
+.lienMenu:link { font-weight:normal; color : #FFFFFF; text-decoration : none; }
+.lienMenu:visited { font-weight:normal; color : #FFFFFF; text-decoration : none; }
+.lienMenu:hover { font-weight : bold; color : #00FFFF; text-decoration : none;}
+.lienMenu:active { font-weight:normal; color : #FFFFFF; text-decoration : none; }
+
+body {
+	background-image: url(fond.png);
+}
+.utilisateur {color: #FFFFFF}
+.menu {
+	background:url(menu.png);
+	font-family:"Times New Roman", Times, serif;
+	font-size:16px;
+    color:#FFFFFF;
+    margin: 0;
+    text-align: center;
+	padding-top:6px;
+	width:112px;
+	height:27px;
+	float: left;
+}
+.cadres {
+	border : 1px solid black;
+	padding-bottom: 2px;
+	padding-top: 2px;
+}
+.centre {
+	border : 1px solid black;
+	padding : 2em;
+}
+.footer {
+	text-align : center;
+	font-size: 13px;
+}
+.news {
+	border : 1px solid black; 
+	text-align : left; 
+	vertical-align : top;
+}
+.bouton {
+	border:solid 1px #004400;
+    background:#95f29a;
+    color:#000000;
+    padding:2px;
+    text-align:center;
+	width:100px;
+	height:25px;
+}
+.reg {color: #FF0000}
