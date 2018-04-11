@@ -9,7 +9,8 @@
 <table width="1016" border="0">
   <tbody><tr>
   <td bordercolor="#0000FF" bgcolor="#00B509" class="cadres">
-  <div class="utilisateur" style="float: left; padding-left:0.5em;">Bienvenue chez OSSER</div>
+  <div class="utilisateur" style="float: left; padding-left:0.5em;">Bienvenue chez OSSER  ouverture du magasin : du Mardi au Samedi, de 9h à 12h et de 14h à 18h
+  </div>
   <div class="utilisateur" style="float: right; padding-right:0.5em;">N'hésitez pas, contactez nous !!</div>  </td>
   </tr>
   <tr>
