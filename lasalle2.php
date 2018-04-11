@@ -17,7 +17,7 @@ function changeImage(input) {
 	document.getElementById("commPhoto").innerHTML = input.name;
 }
 </script>
-<div id="commPhoto">Matériel</div><br><img src="img/materiel2.jpg" name="affichageImage" border="0" height="500" width="650"><br><br><a href="lasalle.htm"><img src="img/fl_gauche.gif" border="0"></a><img src="img/materiel2.jpg" id="Materiel2.jpg" onclick="javascript:changeImage(this);" name="Matériel" border="0" height="110" width="150">  <img src="img/cyber.jpg" id="cyber.jpg" onclick="javascript:changeImage(this);" name="Cyber" border="0" height="110" width="150">  <img src="img/Interieur.JPG" id="interieur.jpg" onclick="javascript:changeImage(this);" name="Intérieur" border="0" height="110" width="150">  <img src="img/interieur2.jpg" id="Interieur2.JPG" onclick="javascript:changeImage(this);" name="Intérieur" border="0" height="110" width="150">   
+<div id="commPhoto">Matériel</div><br><img src="img/materiel2.jpg" name="affichageImage" border="0" height="500" width="650"><br><br><a href="lasalle.php"><img src="img/fl_gauche.gif" border="0"></a><img src="img/materiel2.jpg" id="Materiel2.jpg" onclick="javascript:changeImage(this);" name="Matériel" border="0" height="110" width="150">  <img src="img/cyber.jpg" id="cyber.jpg" onclick="javascript:changeImage(this);" name="Cyber" border="0" height="110" width="150">  <img src="img/Interieur.JPG" id="interieur.jpg" onclick="javascript:changeImage(this);" name="Intérieur" border="0" height="110" width="150">  <img src="img/interieur2.jpg" id="Interieur2.JPG" onclick="javascript:changeImage(this);" name="Intérieur" border="0" height="110" width="150">   
 </center>        <p></p>
       </td>
     </tr>
